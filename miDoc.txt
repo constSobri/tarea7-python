@@ -1,0 +1,7 @@
+Nombre: Angel
+Apellido: Pacheco
+Edad:23
+
+Estoy aprendiendo a desarrollar.
+
+Accediendo dos veces al texto.
